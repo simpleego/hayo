@@ -1,5 +1,10 @@
 /* stylelint-disable selector-list-comma-newline-after */
 
+.container {
+  background-image: url('img/IMG_4241.PNG')
+  
+}
+
 .blog-header {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
